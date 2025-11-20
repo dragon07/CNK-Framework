@@ -1,0 +1,7 @@
+/* CNK global styles */
+.elementor-widget-cnk-widget-getpost .elementor-control-section_main > .elementor-panel-heading
+{
+    pointer-events: none !important;
+    opacity: 0.5;
+    cursor: not-allowed;
+}
